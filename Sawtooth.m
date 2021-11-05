@@ -1,4 +1,4 @@
-%Lab:1(task-5) 18CS23
+%Lab:1(task-4) 18CS23
 t = (0:0.1:20)';
 x = sawtooth(t);
 y = awgn(x,20,'measured');
